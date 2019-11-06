@@ -8,5 +8,8 @@
     <artifactId>dipies</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
+    <properties>
+        <maven.compailer.source>1.8</maven.compailer.source>
+        <maven.compailer.target>1.8</maven.compailer.target>
+    </properties>
 </project>
